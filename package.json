@@ -1,0 +1,12 @@
+{
+  "name": "publicKeyEncryption",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pppaaannnaaa/publicKeyEncryption.git",
+  "author": "pdasxebia <pdas@xebia.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
